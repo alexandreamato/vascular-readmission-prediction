@@ -52,4 +52,4 @@ shiny::runApp()
 
 ---
 
-[amato.com.br](https://amato.com.br) · [software.amato.com.br](https://software.amato.com.br)
+[vascular.pro](https://vascular.pro) · [software.amato.com.br](https://software.amato.com.br)
