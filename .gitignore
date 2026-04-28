@@ -1,5 +1,5 @@
 # Deployed static app — served at software.amato.com.br, not distributed here
-index.html
+/index.html
 
 # Serialized model — contains training data, not for public distribution
 *.rds

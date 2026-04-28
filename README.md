@@ -4,6 +4,8 @@ Machine learning tool for predicting 30-day hospital readmission risk in vascula
 
 **Live app → [software.amato.com.br/vascular-prediction](https://software.amato.com.br/vascular-prediction/)**
 
+**Calculadora interativa → [alexandreamato.github.io/vascular-readmission-prediction](https://alexandreamato.github.io/vascular-readmission-prediction/)**
+
 ---
 
 ## About
